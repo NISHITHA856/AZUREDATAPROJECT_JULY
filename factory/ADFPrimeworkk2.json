@@ -1,0 +1,15 @@
+{
+	"name": "ADFPrimeworkk2",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a8a9d41-d82c-47f1-b483-29194d48b304",
+		"tenantId": "a511ac11-1a1b-4f2a-9bdf-5ce3ef2af4fb"
+	}
+}
