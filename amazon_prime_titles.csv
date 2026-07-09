@@ -1,0 +1,26 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in
+s1,Movie,The Grand Seduction,Don McKellar,Brendan Gleeson,Canada,March 30 2021,2014,13+,113 min,Comedy Drama
+s2,Movie,Take Care Good Night,Girish Joshi,Mahesh Manjrekar,India,March 30 2021,2018,13+,110 min,Drama International
+s3,Movie,Secrets of Deception,Josh Webber,Tom Sizemore,United States,March 30 2021,2017,16+,74 min,Action Drama
+s4,Movie,Pink Staying True,Sonia Anderson,Pink,United States,March 30 2021,2014,ALL,69 min,Documentary
+s5,Movie,Monster Maker,Giles Foster,Harry Dean Stanton,United Kingdom,March 30 2021,1989,ALL,45 min,Fantasy Drama
+s6,Movie,Living With Dinosaurs,Paul Weiland,Gregory Chisholm,United Kingdom,March 30 2021,1989,ALL,52 min,Kids Fantasy
+s7,Movie,Hired Gun,Fran Strine,Alice Cooper,United States,March 30 2021,2017,16+,98 min,Documentary
+s8,Movie,Grease Live,Thomas Kail,Julianne Hough,United States,March 30 2021,2016,13+,131 min,Comedy
+s9,Movie,Global Meltdown,Daniel Gilboy,Michael Pare,Canada,March 30 2021,2017,13+,87 min,Action
+s10,Movie,David Mother,Robert Ackerman,Kirstie Alley,United States,April 1 2021,1994,13+,92 min,Drama
+s11,Movie,Forest Fairies,Justin Dyck,Emily Wilder,Canada,April 4 2021,2016,ALL,88 min,Adventure Kids
+s12,Movie,Take Care,Liz Tuccillo,Leslie Bibb,United States,April 10 2021,2014,13+,93 min,Comedy
+s13,Movie,Night Eats World,Dominique Rocher,Denis Lavant,France,April 17 2021,2018,16+,94 min,Horror
+s14,Movie,Resilencia,Jep Barcelona,Rafinha Alcantara,Spain,April 24 2021,2020,ALL,46 min,Sports
+s15,Movie,Elon Musk Real Life Iron Man,Sonia Anderson,Elon Musk,United Kingdom,May 2 2021,2018,13+,74 min,Documentary
+s16,Movie,Summer 03,Becca Gleason,Joey King,United States,June 3 2021,2019,16+,96 min,Comedy Drama
+s17,Movie,Zoombies,Glenn Miller,Marcus Anderson,United States,June 5 2021,2016,13+,87 min,Horror
+s18,TV Show,Zoo Babies,Unknown,Gillian Barlett,United States,June 7 2021,2008,ALL,1 Season,Kids
+s19,TV Show,Bossy Bottom,Unknown,Zoe Coombs,Australia,June 10 2021,2020,18+,1 Season,Comedy
+s20,Movie,Zoe,Drake Doremus,Ewan McGregor,United States,June 15 2021,2018,R,104 min,Science Fiction
+s21,TV Show,Zoboomafoo,Unknown,Chris Martin,United States,June 20 2021,2001,ALL,1 Season,Kids
+s22,TV Show,Mini Series,Unknown,Alex Cazares,Japan,June 22 2021,2020,7+,1 Season,Anime
+s23,Movie,Zis Boom Bah,William Nigh,Grace Hayes,United States,June 25 2021,1941,NR,62 min,Comedy
+s24,TV Show,ZeroZeroZero,Unknown,Andrea Riseborough,Italy,June 27 2021,2020,18+,1 Season,Drama
+s25,Movie,Zandalee,Sam Pillsbury,Nicolas Cage,United States,June 30 2021,1991,R,94 min,Drama
